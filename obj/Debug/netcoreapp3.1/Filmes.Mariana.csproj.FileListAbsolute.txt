@@ -1,0 +1,13 @@
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.exe
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.deps.json
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.runtimeconfig.json
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.runtimeconfig.dev.json
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.dll
+C:\Users\55869\Filmes.Mariana\bin\Debug\netcoreapp3.1\Filmes.Mariana.pdb
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.csprojAssemblyReference.cache
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.AssemblyInfoInputs.cache
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.AssemblyInfo.cs
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.csproj.CoreCompileInputs.cache
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.dll
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.pdb
+C:\Users\55869\Filmes.Mariana\obj\Debug\netcoreapp3.1\Filmes.Mariana.genruntimeconfig.cache

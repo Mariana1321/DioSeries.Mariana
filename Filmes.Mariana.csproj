@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="Classes\EntidadeBase.cs" />
+    <Content Include="Classes\Filmes.cs" />
+    <Content Include="Classes\FilmesRepositorio.cs" />
+    <Content Include="Intefaces\IRepositorioFilmes.cs" />
+    <Content Include="Enum\Genero.cs" />
+    <Content Include=".vscode\launch.json" />
+  </ItemGroup>
+</Project>
